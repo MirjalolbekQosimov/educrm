@@ -1,0 +1,15 @@
+.formGroup {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    
+}
+.inputForm {
+    width: 50%;
+}
+.formGroupSelect {
+    width: 50%;
+}
+select, option {
+    cursor: pointer !important;
+}

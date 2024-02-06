@@ -1,0 +1,243 @@
+[
+    {
+        "id": 1,
+        "idName": "diyor",
+        "name": "Diyorbek",
+        "surname": "Abdiqayumov",
+        "raqam": "+998903777337",
+        "haqida": "Instagram",
+        "fanlar": "Dasturlash",
+        "sinov": "08:00 - 10:00" 
+    },
+    {
+        "id": 2,
+        "idName": "abu",
+        "name": "Abdulla",
+        "surname": "Abduqayumov",
+        "raqam": "+998902250506",
+        "haqida": "Telegram",
+        "fanlar": "Matematika",
+        "sinov": "08:00 - 12:00" 
+    },
+    {
+        "id": 3,
+        "name": "Mirzohid",
+        "idName": "mirza",
+        "surname": "Abdiqayumov",
+        "raqam": "+998919077633",
+        "haqida": "Banner",
+        "fanlar": "Ingliz tili",
+        "sinov": "10:00 - 12:00" 
+    },
+    {
+        "id": 4,
+        "idName": "jasur",
+        "name": "Jasurbek",
+        "surname": "Abdiqayumov",
+        "raqam": "+998903777337",
+        "haqida": "Instagram",
+        "fanlar": "Dasturlash",
+        "sinov": "13:00 - 15:00" 
+    },
+    {
+        "id": 5,
+        "idName": "zaf",
+        "name": "Zafar",
+        "surname": "Abdiqayumov",
+        "raqam": "+998900761555",
+        "haqida": "Tanishlar",
+        "fanlar": "Fizika",
+        "sinov": "15:00 - 17:00" 
+    },
+    {
+        "id": 6,
+        "idName": "bek",
+        "name": "Behruz",
+        "surname": "Abdiqayumov",
+        "raqam": "+998900771555",
+        "haqida": "Instagram",
+        "fanlar": "Kimyo",
+        "sinov": "13:00 - 17:00" 
+    },
+    {
+        "id": 7,
+        "idName": "oy",
+        "name": "Oybek",
+        "surname": "Abdiqayumov",
+        "raqam": "+998903777337",
+        "haqida": "Instagram",
+        "fanlar": "Dasturlash",
+        "sinov": "08:00 - 10:00" 
+    },
+    {
+        "id": 8,
+        "name": "Sulton",
+        "idName": "sul",
+        "surname": "Abdiqayumov",
+        "raqam": "+998903777337",
+        "haqida": "Instagram",
+        "fanlar": "Dasturlash",
+        "sinov": "08:00 - 10:00" 
+    },{
+        "id": 9,
+        "name": "Nilufar",
+        "idName": "nilu",
+        "surname": "Abdiqayumov",
+        "raqam": "+998903777337",
+        "haqida": "Instagram",
+        "fanlar": "Dasturlash",
+        "sinov": "08:00 - 10:00" 
+    },
+    {
+        "id": 10,
+        "name": "Soliha",
+        "idName": "soli",
+        "surname": "Abdiqayumov",
+        "raqam": "+998903777337",
+        "haqida": "Instagram",
+        "fanlar": "Dasturlash",
+        "sinov": "08:00 - 10:00" 
+    },
+    {
+        "id": 11,
+        "name": "Shahnoza",
+        "idName": "shah",
+        "surname": "Abdiqayumov",
+        "raqam": "+998903777337",
+        "haqida": "Instagram",
+        "fanlar": "Dasturlash",
+        "sinov": "08:00 - 10:00" 
+    },
+    {
+        "id": 12,
+        "name": "Nilufar",
+        "idName": "nilu",
+        "surname": "Abdiqayumov",
+        "raqam": "+998903777337",
+        "haqida": "Instagram",
+        "fanlar": "Dasturlash",
+        "sinov": "08:00 - 10:00" 
+    },
+    
+    {
+        "id": 13,
+        "name": "Dilnoza",
+        "idName": "dil",
+        "surname": "Tursuova",
+        "raqam": "+998905551112",
+        "haqida": "Instagram",
+        "fanlar": "Dasturlash",
+        "sinov": "08:00 - 10:00" 
+    },
+    {
+        "id": 14,
+        "idName": "diyor",
+        "name": "Diyorbek",
+        "surname": "Abdiqayumov",
+        "raqam": "+998903777337",
+        "haqida": "Instagram",
+        "fanlar": "Dasturlash",
+        "sinov": "08:00 - 10:00" 
+    },
+    {
+        "id": 15,
+        "idName": "abu",
+        "name": "Abdulla",
+        "surname": "Abduqayumov",
+        "raqam": "+998902250506",
+        "haqida": "Telegram",
+        "fanlar": "Matematika",
+        "sinov": "08:00 - 10:00" 
+    },
+    {
+        "id": 16,
+        "name": "Mirzohid",
+        "idName": "mirza",
+        "surname": "Abdiqayumov",
+        "raqam": "+998919077633",
+        "haqida": "Banner",
+        "fanlar": "Ingliz tili",
+        "sinov": "08:00 - 10:00" 
+    },
+    {
+        "id": 17,
+        "idName": "jasur",
+        "name": "Jasurbek",
+        "surname": "Abdiqayumov",
+        "raqam": "+998903777337",
+        "haqida": "Instagram",
+        "fanlar": "Dasturlash",
+        "sinov": "08:00 - 10:00" 
+    },
+    {
+        "id": 18,
+        "idName": "zaf",
+        "name": "Zafar",
+        "surname": "Abdiqayumov",
+        "raqam": "+998900761555",
+        "haqida": "Tanishlar",
+        "fanlar": "Fizika",
+        "sinov": "08:00 - 10:00" 
+    },
+    
+    {
+        "id": 19,
+        "idName": "oy",
+        "name": "Oybek",
+        "surname": "Abdiqayumov",
+        "raqam": "+998903777337",
+        "haqida": "Instagram",
+        "fanlar": "Dasturlash",
+        "sinov": "08:00 - 10:00" 
+    },
+    {
+        "id": 20,
+        "name": "Sulton",
+        "idName": "sul",
+        "surname": "Abdiqayumov",
+        "raqam": "+998903777337",
+        "haqida": "Instagram",
+        "fanlar": "Dasturlash",
+        "sinov": "08:00 - 10:00" 
+    },{
+        "id": 21,
+        "name": "Nilufar",
+        "idName": "nilu",
+        "surname": "Abdiqayumov",
+        "raqam": "+998903777337",
+        "haqida": "Instagram",
+        "fanlar": "Dasturlash",
+        "sinov": "08:00 - 10:00" 
+    },
+    {
+        "id": 22,
+        "name": "Soliha",
+        "idName": "soli",
+        "surname": "Abdiqayumov",
+        "raqam": "+998903777337",
+        "haqida": "Instagram",
+        "fanlar": "Dasturlash",
+        "sinov": "08:00 - 10:00" 
+    },
+    {
+        "id": 23,
+        "name": "Shahnoza",
+        "idName": "shah",
+        "surname": "Abdiqayumov",
+        "raqam": "+998903777337",
+        "haqida": "Instagram",
+        "fanlar": "Dasturlash",
+        "sinov": "08:00 - 10:00" 
+    }
+    ,
+    {
+        "id": 24,
+        "name": "Dilnoza",
+        "idName": "dil",
+        "surname": "Tursuova",
+        "raqam": "+998905551112",
+        "haqida": "Instagram",
+        "fanlar": "Dasturlash",
+        "sinov": "08:00 - 10:00" 
+    }
+]

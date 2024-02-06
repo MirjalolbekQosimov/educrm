@@ -1,0 +1,82 @@
+.thead.dark {
+    background-color: var(--dark-mode) !important;
+    color: white;
+}
+.tr.dark {
+    background-color: rgb(37,37,37) !important;
+    color: white;
+}
+.searchRow.dark {
+    background-color: rgb(64,64,64);
+    /* color: white; */
+}
+.searchRow.dark input::placeholder {
+    color: white;
+}
+.searchRow.dark input {
+    color: white;
+}
+.searchRow{
+    background-color: #ddddddb9;
+}
+.recordsMap:nth-child(2n-1) {
+    background-color: #ddddddb9;
+    
+  }
+.recordsMap.dark {
+    background-color: rgb(37,37,37) !important;
+    color: white;
+}
+.recordsMap:nth-child(2n-1).dark {
+    background-color: rgb(64,64,64) !important;
+}
+.recordsMap:nth-child(2n-1):hover.dark {
+    background-color: rgb(24, 19, 19) !important;
+}
+.recordsMap:hover.dark {
+    background-color: rgb(89, 89, 89) !important;
+    color: white !important;
+}
+th, td {
+    text-align: center !important;
+    box-sizing: border-box;
+}
+.tartib {
+    width: 50px;
+}
+tbody {
+    overflow-x: auto;
+}
+td input {
+    border: none;
+    background-color: transparent;
+    outline: none;
+    padding-left: 65px;
+}
+.searchLid {
+    width: 100%;
+}
+.searchRow {
+    border: none !important;
+}
+.searchRow td {
+    border-width:0px!important;
+}
+.user {
+    background-color: transparent;
+}
+.hidden {
+    display: none;
+}
+.lidHeaderSecond {
+    padding: 20px 20px !important; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.lidHeaderSecond ul {
+    margin: 0;
+}
+.lidHeaderSecond h2 {
+    margin: 0;
+}

@@ -1,0 +1,36 @@
+:root {
+    --dark-mode: #1a1a1a;
+    --light-mode: #fff;
+    --light-border-color: #9ca3af;
+}
+.leftMenu a{
+    color: var(--dark-mode) !important;
+}
+.leftSideBar {
+    min-height: 94vh;
+    background-color: var(--light-mode);
+}
+.leftMenu.blur {
+    display: none;
+}
+.leftSideBar.dark {
+    background-color: #22252f;
+}
+.darkleftColor.dark {
+    color: var(--light-mode);
+}
+.leftMenu a.active {
+    background-color: #0d6efd !important;
+    color: white !important;
+    width: 80% !important;
+    border-radius: 0px 12px 12px 0px !important;
+    display: inline-block !important;
+    vertical-align: middle !important;
+}
+.leftMenu a.active .leftMenuItem {
+    color: white;
+}
+.leftMenu a {
+    margin-bottom: 10px;
+}
+

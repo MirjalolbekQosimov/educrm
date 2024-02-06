@@ -1,0 +1,16 @@
+.login {
+    background-color: #fff8f8;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.forms {
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 4px 4px 16px 0px rgba(34, 60, 80, 0.2);
+}
+.loginPage {
+    font-size: 24px;
+    font-weight: 600;
+}
