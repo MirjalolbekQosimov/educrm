@@ -10,9 +10,7 @@ import React, { useState, useEffect } from "react";
 import AddLids from "./components/Admin/adminBody/adminBodyLid/LidTable/addLids/AddLids";
 
 function App() {
-  const [isNightMode, setIsNightMode] = useState(
-    localStorage.getItem("nightMode") === "true"
-  );
+
 
 
 
